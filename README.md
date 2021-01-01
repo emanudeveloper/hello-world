@@ -1,2 +1,2 @@
 # hello-world
-my first repository
+This is the second branch of my first repository in gitHub.
